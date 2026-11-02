@@ -1,0 +1,1 @@
+#define QSHISEN_VERSION	"1.3"
